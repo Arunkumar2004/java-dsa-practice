@@ -1,10 +1,10 @@
-
+package arun;
 
 public class SearchInString {
     public static void main (String[] args) {
         String name = "Arunkumar";
         char target = 'g';
-        // Call the method
+        // Call the
         System.out.println(search2 (name, target));
 
         //System.out.println (Arrays.toString(name.toCharArray()));
