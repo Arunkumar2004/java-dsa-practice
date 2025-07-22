@@ -3,7 +3,7 @@ package arun;
 public class SearchInString {
     public static void main (String[] args) {
         String name = "Arunkumar";
-        char target = 'g';
+        char target = 'k';
         // Call the
         System.out.println(search2 (name, target));
 
